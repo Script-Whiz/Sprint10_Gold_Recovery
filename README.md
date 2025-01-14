@@ -7,4 +7,3 @@ sMAPE scoring is used to find the best model.
 
 on GitHub:
 [Sprint10 Gold Recovery project](https://github.com/Script-Whiz/Sprint10_Gold_Recovery/blob/main/notebooks/Gold_Recovery_ver6_final.ipynb) 
-
